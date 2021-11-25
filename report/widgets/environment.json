@@ -1,0 +1,16 @@
+[ {
+  "values" : [ "吴卫东" ],
+  "name" : "执行人"
+}, {
+  "values" : [ "Edge" ],
+  "name" : "Browser"
+}, {
+  "values" : [ "95.0.1020.53" ],
+  "name" : "Browser.Version"
+}, {
+  "values" : [ "Develop" ],
+  "name" : "执行环境"
+}, {
+  "values" : [ "192.168.27.196" ],
+  "name" : "执行机"
+} ]

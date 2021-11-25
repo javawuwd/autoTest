@@ -1,0 +1,170 @@
+test_case/test_login.py::test_case02
+test_login.py::Test_cl::test_case01
+test_login.py::Test_cl::test_case02
+test_login.py::test_case02
+test_login.py::test_case02
+test_login.py::test_case02
+test_login.py::test_case02
+test_login.py::test_case02
+test_login.py::test_case02
+test_login.py::test_case02
+test_login.py::test_case02
+test_login.py::test_case02
+test_login.py::test_case02
+test_login.py::test_case01[.0]
+test_login.py::test_case01[.1]
+test_login.py::test_case01[/0]
+test_login.py::test_case01[d]
+test_login.py::test_case01[a0]
+test_login.py::test_case01[t]
+test_login.py::test_case01[a1]
+test_login.py::test_case01[/1]
+test_login.py::test_case01[l0]
+test_login.py::test_case01[o]
+test_login.py::test_case01[g]
+test_login.py::test_case01[i]
+test_login.py::test_case01[n]
+test_login.py::test_case01[.2]
+test_login.py::test_case01[y]
+test_login.py::test_case01[a2]
+test_login.py::test_case01[m]
+test_login.py::test_case01[l1]
+test_login.py::test_case02
+test_login.py::test_case01[username\uff1aadmin password\uff1a12345678]
+test_login.py::test_case01[username\uff1aadmin23 password\uff1a123456]
+test_login.py::test_case01[username\uff1aadmin password\uff1a123456]
+test_login.py::test_case02
+test_login.py::test_case01[username\uff1aadmin password\uff1a12345678]
+test_login.py::test_case01[username\uff1aadmin23 password\uff1a123456]
+test_login.py::test_case01[username\uff1aadmin password\uff1a123456]
+test_login.py::test_case02
+test_login.py::test_case01[username\uff1aadmin password\uff1a12345678]
+test_login.py::test_case01[username\uff1aadmin23 password\uff1a123456]
+test_login.py::test_case01[username\uff1aadmin password\uff1a12345678]
+test_login.py::test_case01[username\uff1aadmin23 password\uff1a123456]
+test_login.py::test_case01[username\uff1aadmin password\uff1a123456]
+test_login.py::test_case02
+test_login.py::test_case01[username\uff1aadmin password\uff1a12345678]
+test_login.py::test_case01[username\uff1aadmin23 password\uff1a123456]
+test_login.py::test_case01[username\uff1aadmin password\uff1a123456]
+test_login.py::test_case02
+test_login.py::test_case01[username\uff1aadmin password\uff1a'12345678']
+test_login.py::test_case01[username\uff1aadmin23 password\uff1a'123456']
+test_login.py::test_case01[username\uff1aadmin password\uff1a'123456']
+test_login.py::test_case02
+test_login.py::test_case01[username\uff1a'admin' password\uff1a'12345678']
+test_login.py::test_case01[username\uff1a'admin23' password\uff1a'123456']
+test_login.py::test_case01[username\uff1a'admin' password\uff1a'123456']
+test_login.py::test_case02
+test_login.py::test_case01[username\uff1a'admin' password\uff1a'12345678']
+test_login.py::test_case01[username\uff1a'admin23' password\uff1a'123456']
+test_login.py::test_case01[username\uff1a'admin' password\uff1a'123456']
+test_login.py::test_case02
+test_login.py::test_case01[username\uff1a'admin' password\uff1a'12345678']
+test_login.py::test_case02
+test_login.py::test_case01[username\uff1a'admin' password\uff1a'12345678']
+test_login.py::test_case02
+test_login.py::test_case01[username\uff1a'admin' password\uff1a'12345678']
+test_login.py::test_case02
+test_login.py::test_case01[username\uff1a'admin' password\uff1a'12345678']
+test_login.py::test_case02
+test_login.py::test_case01[username\uff1aadmin password\uff1a12345678]
+test_login.py::test_case02
+test_login.py::test_case01[username\uff1aadmin password\uff1a12345678]
+test_login.py::test_case02
+test_login.py::test_case01[username\uff1aadmin password\uff1a12345678]
+test_login.py::test_case02
+test_login.py::test_case01[data0]
+test_login.py::test_case02
+test_login.py::test_case01[data0]
+test_login.py::test_case02
+test_login.py::test_case01[data0]
+test_login.py::test_case01[data1]
+test_login.py::test_case02
+test_login.py::test_ErrName[data0]
+test_login.py::test_ErrName[data1]
+test_login.py::test_ErrName[data2]
+test_login.py::test_ErrName[data3]
+test_login.py::test_ErrPass[data0]
+test_login.py::test_ErrPass[data1]
+test_login.py::test_ErrPass[data2]
+test_login.py::test_ErrPass[data3]
+test_login.py::test_case01[data0]
+test_login.py::test_case01[data1]
+test_login.py::test_case01[data2]
+test_login.py::test_case01[data3]
+test_login.py::test_case02
+test_login.py::test_ErrName[data0]
+test_login.py::test_ErrName[data1]
+test_login.py::test_ErrName[data2]
+test_login.py::test_ErrPass[data0]
+test_login.py::test_ErrPass[data1]
+test_login.py::test_ErrPass[data2]
+test_login.py::test_case01[data0]
+test_login.py::test_case01[data1]
+test_login.py::test_case01[data2]
+test_login.py::test_ErrPass[data0]
+test_login.py::test_ErrPass[data1]
+test_login.py::test_ErrPass[data3]
+test_login.py::test_case02
+test_login.py::test_ErrPass[data1]
+test_login.py::test_ErrPass[data3]
+test_login.py::test_case02
+test_login.py::test_ErrPass[data1]
+test_login.py::test_ErrPass[data3]
+test_login.py::test_case02
+test_login.py::test_ErrPass[data0]
+test_login.py::test_ErrPass[data1]
+test_login.py::test_ErrPass[data1]
+test_login.py::test_ErrPass[data3]
+test_login.py::test_case02
+test_login.py::test_ErrPass[data1]
+test_login.py::test_ErrPass[data1]
+test_login.py::test_ErrPass[data3]
+test_login.py::test_case02
+test_login.py::test_ErrPass[data1]
+test_login.py::test_ErrPass[data3]
+test_login.py::test_case02
+test_login.py::test_case02
+test_login.py::test_case02
+test_login.py::test_ErrPass[data1]
+test_login.py::test_ErrPass[data3]
+test_login.py::test_ErrPass[data1]
+test_login.py::test_ErrPass[data3]
+test_login.py::test_ErrPass[data1]
+test_login.py::test_ErrPass[data3]
+test_login.py::test_ErrPass[data1]
+test_login.py::test_ErrPass[data3]
+test_login.py::test_ErrPass[data1]
+test_login.py::test_case02
+test_login.py::test_ErrPass[data0]
+test_login.py::test_ErrPass[data1]
+test_login.py::test_case02
+test_login.py::test_case02
+test_login.py::test_case02
+test_login.py::test_case02
+test_general.py::test_general[data0]
+test_general.py::test_general[data1]
+test_general.py::test_general[data0]
+test_general.py::test_general[data1]
+test_general.py::test_general[data0]
+test_general.py::test_general[data1]
+test_general.py::test_general[data0]
+test_general.py::test_general[data1]
+test_general.py::test_general[data0]
+test_general.py::test_general[data1]
+test_general.py::test_general[data0]
+test_general.py::test_general[data1]
+test_general.py::test_general[data0]
+test_general.py::test_general[data1]
+test_general.py::test_general[data0]
+test_general.py::test_general[data1]
+test_general.py::test_general[data0]
+test_general.py::test_general[data1]
+test_general.py::test_general[data1]
+test_general.py::test_general[data0]
+test_general.py::test_general[data1]
+test_general.py::test_general[data0]
+test_general.py::test_general[data1]
+test_general.py::test_general[data0]
+test_general.py::test_general[data1]

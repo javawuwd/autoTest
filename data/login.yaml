@@ -1,0 +1,19 @@
+-
+  type: errName
+  username: adminwww
+  password: '12345678'
+
+-
+  type: errPass
+  username: admin
+  password: '1234567890'
+
+-
+  type: errAll
+  username: adminddd
+  password: '123456123'
+
+-
+  type: correct
+  username: admin
+  password: '123456'

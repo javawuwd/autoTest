@@ -1,0 +1,43 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "测试demo",
+    "children" : [ {
+      "name" : "test_general[data0]",
+      "uid" : "d0cbc8fb70c99b67",
+      "parentUid" : "081240ba445361a579f207a07b80baf4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637823719331,
+        "stop" : 1637823723460,
+        "duration" : 4129
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ "{'describe': '输入NBA', 'LocatingMethod': 'XPATH', 'LocatingElements': '//*[@id=\"kw\"]', 'action': 'send_keys', 'input': 'NBA', 'expectResult': '输入框显示“NBA”', 'assertValue': None}" ]
+    }, {
+      "name" : "test_general[data1]",
+      "uid" : "29cf051b4eb7545",
+      "parentUid" : "081240ba445361a579f207a07b80baf4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637823723481,
+        "stop" : 1637823727575,
+        "duration" : 4094
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ "{'describe': '点击查找', 'LocatingMethod': 'XPATH', 'LocatingElements': '//*[@id=\"su\"]', 'action': 'click', 'input': None, 'expectResult': '点击搜索', 'assertValue': None}" ]
+    } ],
+    "uid" : "081240ba445361a579f207a07b80baf4"
+  } ]
+}

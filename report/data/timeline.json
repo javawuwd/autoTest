@@ -1,0 +1,161 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "AUTOBVT-STLT0LS",
+    "children" : [ {
+      "name" : "9752-MainThread",
+      "children" : [ {
+        "name" : "test_general[data1]",
+        "uid" : "5ced6b0008540ff6",
+        "parentUid" : "551ec924bb9519ab3a9c1555cbb08a33",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637823623771,
+          "stop" : 1637823627856,
+          "duration" : 4085
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'describe': '点击查找', 'LocatingMethod': 'XPATH', 'LocatingElements': '//*[@id=\"kw\"]', 'action': 'clear', 'input': None, 'expectResult': '清除输入框', 'assertValue': None}" ]
+      }, {
+        "name" : "test_general[data0]",
+        "uid" : "fd1a675bb90585aa",
+        "parentUid" : "551ec924bb9519ab3a9c1555cbb08a33",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637823619656,
+          "stop" : 1637823623759,
+          "duration" : 4103
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'describe': '输入NBA', 'LocatingMethod': 'XPATH', 'LocatingElements': '//*[@id=\"kw\"]', 'action': 'send_keys', 'input': 'NBA', 'expectResult': '输入框显示“NBA”', 'assertValue': None}" ]
+      } ],
+      "uid" : "551ec924bb9519ab3a9c1555cbb08a33"
+    }, {
+      "name" : "11404-MainThread",
+      "children" : [ {
+        "name" : "test_general[data0]",
+        "uid" : "8e55e8f6ee807c71",
+        "parentUid" : "91b9cee33190d835a3cb72f948f04fa8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637823551531,
+          "stop" : 1637823553652,
+          "duration" : 2121
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'describe': '输入NBA', 'LocatingMethod': 'XPATH', 'LocatingElements': '//*[@id=\"kw\"]', 'action': 'send_keys', 'input': 'NBA', 'expectResult': '输入框显示“NBA”', 'assertValue': None}" ]
+      }, {
+        "name" : "test_general[data1]",
+        "uid" : "9ab8e1bcea32059a",
+        "parentUid" : "91b9cee33190d835a3cb72f948f04fa8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637823553666,
+          "stop" : 1637823555747,
+          "duration" : 2081
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'describe': '点击查找', 'LocatingMethod': 'XPATH', 'LocatingElements': '//*[@id=\"kw\"]', 'action': 'clear', 'input': None, 'expectResult': '清除输入框', 'assertValue': None}" ]
+      } ],
+      "uid" : "91b9cee33190d835a3cb72f948f04fa8"
+    }, {
+      "name" : "15540-MainThread",
+      "children" : [ {
+        "name" : "test_general[data0]",
+        "uid" : "ed291ee8e1f0eb35",
+        "parentUid" : "ff037d57116ae8ade43a8e94cb284402",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637822968680,
+          "stop" : 1637822970799,
+          "duration" : 2119
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'describe': '输入NBA', 'LocatingMethod': 'XPATH', 'LocatingElements': '//*[@id=\"kw\"]', 'action': 'send_keys', 'input': 'NBA', 'expectResult': '输入框显示“NBA”', 'assertValue': None}" ]
+      }, {
+        "name" : "test_general[data1]",
+        "uid" : "b1a713f6dfbedc36",
+        "parentUid" : "ff037d57116ae8ade43a8e94cb284402",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637822970808,
+          "stop" : 1637822972899,
+          "duration" : 2091
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'describe': '点击查找', 'LocatingMethod': 'XPATH', 'LocatingElements': '//*[@id=\"su\"]', 'action': 'click', 'input': None, 'expectResult': '显示搜索结果', 'assertValue': None}" ]
+      } ],
+      "uid" : "ff037d57116ae8ade43a8e94cb284402"
+    }, {
+      "name" : "14656-MainThread",
+      "children" : [ {
+        "name" : "test_general[data0]",
+        "uid" : "d0cbc8fb70c99b67",
+        "parentUid" : "121d20b580c721e0aa84d72d24233a47",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637823719331,
+          "stop" : 1637823723460,
+          "duration" : 4129
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 3,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'describe': '输入NBA', 'LocatingMethod': 'XPATH', 'LocatingElements': '//*[@id=\"kw\"]', 'action': 'send_keys', 'input': 'NBA', 'expectResult': '输入框显示“NBA”', 'assertValue': None}" ]
+      }, {
+        "name" : "test_general[data1]",
+        "uid" : "29cf051b4eb7545",
+        "parentUid" : "121d20b580c721e0aa84d72d24233a47",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637823723481,
+          "stop" : 1637823727575,
+          "duration" : 4094
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 3,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'describe': '点击查找', 'LocatingMethod': 'XPATH', 'LocatingElements': '//*[@id=\"su\"]', 'action': 'click', 'input': None, 'expectResult': '点击搜索', 'assertValue': None}" ]
+      } ],
+      "uid" : "121d20b580c721e0aa84d72d24233a47"
+    } ],
+    "uid" : "6a94efa680144cd22375b3423379615e"
+  } ]
+}
