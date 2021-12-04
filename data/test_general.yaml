@@ -1,0 +1,49 @@
+-
+  number: '1'
+  describe: '输入用户名'
+  LocatingMethod: XPATH
+  LocatingElements: //*[@id="app"]/div/form/dl/dd[1]/input
+  action: send_keys
+  input: admin
+  expectResult:
+  assertValue:
+
+-
+  number: '2'
+  describe: '输入密码'
+  LocatingMethod: XPATH
+  LocatingElements: //*[@id="app"]/div/form/dl/dd[2]/input
+  action: send_keys
+  input: '123456'
+  expectResult:
+  assertValue:
+
+-
+  number: '3'
+  describe: '点击登录'
+  LocatingMethod: XPATH
+  LocatingElements: //*[@id="app"]/div/form/dl/dd[3]/button
+  action: click
+  input:
+  expectResult:
+  assertValue:
+
+-
+  number: '4'
+  describe: '点击今日工作台'
+  LocatingMethod: XPATH
+  LocatingElements: //*[@id="tab-second"]
+  action: click
+  input:
+  expectResult:
+  assertValue:
+
+-
+  number: '5'
+  describe: '获取登录用户'
+  LocatingMethod: XPATH
+  LocatingElements: //*[@id="pane-second"]/div/div[1]/div/div[1]/div/div/div[2]/div[1]/div/div/span
+  action: get_Text
+  input: admin
+  expectResult: admin
+  assertValue: admin

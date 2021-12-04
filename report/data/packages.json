@@ -5,38 +5,55 @@
     "name" : "test_general",
     "children" : [ {
       "name" : "test_general[data0]",
-      "uid" : "d0cbc8fb70c99b67",
+      "uid" : "33dc79750e44eb4a",
       "parentUid" : "1e104d1b9f46e09304954a80bc97304a",
       "status" : "passed",
       "time" : {
-        "start" : 1637823719331,
-        "stop" : 1637823723460,
-        "duration" : 4129
+        "start" : 1638523005366,
+        "stop" : 1638523007556,
+        "duration" : 2190
       },
       "flaky" : false,
       "newFailed" : false,
       "newPassed" : false,
       "newBroken" : false,
-      "retriesCount" : 3,
+      "retriesCount" : 0,
       "retriesStatusChange" : false,
-      "parameters" : [ "{'describe': '输入NBA', 'LocatingMethod': 'XPATH', 'LocatingElements': '//*[@id=\"kw\"]', 'action': 'send_keys', 'input': 'NBA', 'expectResult': '输入框显示“NBA”', 'assertValue': None}" ]
+      "parameters" : [ "{'describe': '点击头像', 'LocatingMethod': 'XPATH', 'LocatingElements': '//*[@id=\"app\"]/div/div[2]/div[1]/div[1]/div[2]/div/div/div', 'action': 'click', 'input': 'None', 'wait': 2.0, 'expectResult': 'None', 'assertValue': 'None'}" ]
     }, {
       "name" : "test_general[data1]",
-      "uid" : "29cf051b4eb7545",
+      "uid" : "a0804afc83c0e91",
       "parentUid" : "1e104d1b9f46e09304954a80bc97304a",
       "status" : "passed",
       "time" : {
-        "start" : 1637823723481,
-        "stop" : 1637823727575,
-        "duration" : 4094
+        "start" : 1638523007563,
+        "stop" : 1638523009621,
+        "duration" : 2058
       },
       "flaky" : false,
       "newFailed" : false,
       "newPassed" : false,
       "newBroken" : false,
-      "retriesCount" : 3,
+      "retriesCount" : 0,
       "retriesStatusChange" : false,
-      "parameters" : [ "{'describe': '点击查找', 'LocatingMethod': 'XPATH', 'LocatingElements': '//*[@id=\"su\"]', 'action': 'click', 'input': None, 'expectResult': '点击搜索', 'assertValue': None}" ]
+      "parameters" : [ "{'describe': '点击个人中心', 'LocatingMethod': 'XPATH', 'LocatingElements': '/html/body/ul/a/li', 'action': 'click', 'input': 'None', 'wait': 2.0, 'expectResult': 'None', 'assertValue': 'None'}" ]
+    }, {
+      "name" : "test_general[data2]",
+      "uid" : "423e999ec1a55a5e",
+      "parentUid" : "1e104d1b9f46e09304954a80bc97304a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638523009630,
+        "stop" : 1638523011661,
+        "duration" : 2031
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "{'describe': '获取登录对象', 'LocatingMethod': 'XPATH', 'LocatingElements': '//*[@id=\"app\"]/div/div[2]/section/div/div/div[1]/div/div[2]/div/ul/li[1]/div', 'action': 'get_Text', 'input': 'None', 'wait': 2.0, 'expectResult': 'admin', 'assertValue': 'admin'}" ]
     } ],
     "uid" : "1e104d1b9f46e09304954a80bc97304a"
   } ]

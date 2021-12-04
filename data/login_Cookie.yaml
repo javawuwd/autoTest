@@ -1,0 +1,3 @@
+#存放登录时的cookie，以绕过验证码登录
+#Admin-Expires-In: '43200'
+Admin-Token: '4c141e5c-489a-4d9b-bb24-73e87f471bee'

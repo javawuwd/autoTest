@@ -1,0 +1,311 @@
+{
+  "uid" : "a0804afc83c0e91",
+  "name" : "test_general[data1]",
+  "fullName" : "test_general#test_general",
+  "historyId" : "6291df95150d3dd05d3230b12f4d841c",
+  "time" : {
+    "start" : 1638523007563,
+    "stop" : 1638523009621,
+    "duration" : 2058
+  },
+  "description" : "网关管理平台各功能模块测试",
+  "descriptionHtml" : "<p>网关管理平台各功能模块测试</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "getLogger",
+    "time" : {
+      "start" : 1638522993773,
+      "stop" : 1638522993775,
+      "duration" : 2
+    },
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "日志初始化...",
+      "time" : {
+        "start" : 1638522993773,
+        "stop" : 1638522993775,
+        "duration" : 2
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "getCases",
+    "time" : {
+      "start" : 1638522993775,
+      "stop" : 1638523005364,
+      "duration" : 11589
+    },
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "初始化浏览器...",
+      "time" : {
+        "start" : 1638522993777,
+        "stop" : 1638522996027,
+        "duration" : 2250
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "打开网关管理平台主界面...",
+      "time" : {
+        "start" : 1638522996027,
+        "stop" : 1638523001022,
+        "duration" : 4995
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "最大化浏览器窗口...",
+      "time" : {
+        "start" : 1638523001022,
+        "stop" : 1638523001182,
+        "duration" : 160
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "设置cookie信息...",
+      "time" : {
+        "start" : 1638523001183,
+        "stop" : 1638523001189,
+        "duration" : 6
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "刷新浏览器...",
+      "time" : {
+        "start" : 1638523001189,
+        "stop" : 1638523005364,
+        "duration" : 4175
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "网关管理平台各功能模块测试",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "点击个人中心",
+      "time" : {
+        "start" : 1638523007563,
+        "stop" : 1638523007564,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "动作：click",
+      "time" : {
+        "start" : 1638523007564,
+        "stop" : 1638523007564,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "内容：None",
+      "time" : {
+        "start" : 1638523007564,
+        "stop" : 1638523007620,
+        "duration" : 56
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "期望结果：None",
+      "time" : {
+        "start" : 1638523007620,
+        "stop" : 1638523007620,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "3d1be1a49192499d",
+      "name" : "log",
+      "source" : "3d1be1a49192499d.txt",
+      "type" : "text/plain",
+      "size" : 8192
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "getCases::0",
+    "time" : {
+      "start" : 1638523011664,
+      "stop" : 1638523017181,
+      "duration" : 5517
+    },
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "退出浏览器......",
+      "time" : {
+        "start" : 1638523011664,
+        "stop" : 1638523017181,
+        "duration" : 5517
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "测试结果发送状态：200",
+      "time" : {
+        "start" : 1638523017181,
+        "stop" : 1638523017181,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "网关管理平台"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "suite",
+    "value" : "其他"
+  }, {
+    "name" : "host",
+    "value" : "AUTOBVT-STLT0LS"
+  }, {
+    "name" : "thread",
+    "value" : "11952-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_general"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data",
+    "value" : "{'describe': '点击个人中心', 'LocatingMethod': 'XPATH', 'LocatingElements': '/html/body/ul/a/li', 'action': 'click', 'input': 'None', 'wait': 2.0, 'expectResult': 'None', 'assertValue': 'None'}"
+  } ],
+  "links" : [ {
+    "name" : "https://iot.lyplat.com/index",
+    "url" : "https://iot.lyplat.com/index",
+    "type" : "test_case"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a0804afc83c0e91.json",
+  "parameterValues" : [ "{'describe': '点击个人中心', 'LocatingMethod': 'XPATH', 'LocatingElements': '/html/body/ul/a/li', 'action': 'click', 'input': 'None', 'wait': 2.0, 'expectResult': 'None', 'assertValue': 'None'}" ]
+}
